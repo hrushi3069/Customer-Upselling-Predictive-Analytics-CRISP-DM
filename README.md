@@ -1,7 +1,6 @@
 # Customer-Upselling-Predictive-Analytics-CRISP-DM
 Predictive analytics case study using CRISP-DM for customer segmentation and targeted email marketing.
 
-# Customer Up-selling Predictive Analytics using CRISP-DM
 
 ## Overview
 
